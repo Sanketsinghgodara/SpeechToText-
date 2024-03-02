@@ -9,9 +9,6 @@ Introducing SpeakToText, the speech-to-text converter designed to enhance your p
 - Accuracy: Advanced speech recognition technology ensures accurate transcriptions, reducing the need for manual editing or corrections.
 - Text Copying: The app allows users to easily copy the transcribed text, making it convenient for them to paste it into other applications or documents. This feature simplifies the process of sharing or using the converted text in various contexts, such as emails, notes, or social media posts, further enhancing the app's versatility and usefulness.
 
-## App Interface
-
-![Screenshot 2023-10-12 172323](https://github.com/Rupal-Gupta29/Speak-To-Type/assets/70842313/e4da9488-2004-4df3-97ca-2212c69616d5)
 
 # Getting Started with Create React App
 
